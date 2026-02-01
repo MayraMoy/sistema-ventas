@@ -1,9 +1,7 @@
 # Sistema de Gestión de Ventas – SaaS para Comercios
 
-## Información general
+> Sistema de Gestión de Ventas para Kioscos y Pequeños Comercios bajo un modelo de producto SaaS (Software as a Service) 
 
-**Proyecto:** Sistema de Gestión de Ventas para Kioscos y Pequeños Comercios  
-**Tipo:** Producto SaaS (Software as a Service)  
 [![Estado](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow.svg)]()
 [![Versión](https://img.shields.io/badge/Versión-1.0-green.svg)]()
 
