@@ -167,3 +167,4 @@ Este proyecto está siendo desarrollado con un enfoque **profesional**, prioriza
 - Escalabilidad  
 - Seguridad  
 - Experiencia de usuario real  
+.
